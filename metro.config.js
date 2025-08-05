@@ -1,25 +1,15 @@
 const { getDefaultConfig } = require('expo/metro-config');
 
-const config = getDefaultConfig(__dirname, {
-  // Enable CSS support
-  isCSSEnabled: true,
-});
+const config = getDefaultConfig(__dirname);
 
-// Add more resolver options for stability
-config.resolver.resolverMainFields = ['react-native', 'browser', 'main'];
-config.resolver.platforms = ['ios', 'android', 'native', 'web'];
+// FORZA NATIVE - NO WEB BULLSHIT
+config.resolver.resolverMainFields = ['react-native', 'main'];
+config.resolver.platforms = ['ios', 'android', 'native'];
 
-// Optimize for Replit
-config.server = {
-  ...config.server,
-  port: 8081,
-  rewriteRequestUrl: (url) => {
-    // Remove the .html extension if present
-    if (url.endsWith('.html')) {
-      return url.slice(0, -5);
-    }
-    return url;
-  }
+// Rimuovi web platforms completamente
+config.transformer = {
+  ...config.transformer,
+  assetPlugins: ['expo-asset/tools/hashAssetFiles'],
 };
 
 module.exports = config;

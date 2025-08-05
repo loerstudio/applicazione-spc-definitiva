@@ -25,6 +25,7 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+    "platforms": ["ios", "android", "web"],
     "plugins": [
       "expo-router",
       [
@@ -41,6 +42,7 @@
     "experiments": {
       "typedRoutes": true
     },
+    "runtimeVersion": "exposdk:51.0.0",
     "extra": {
       "eas": {
         "projectId": "your-project-id-here"
