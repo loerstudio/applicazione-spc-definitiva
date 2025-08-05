@@ -1,0 +1,12 @@
+# Configurazione Replit per Expo
+[env]
+EXPO_TUNNEL_SUBDOMAIN = "spc-fitness"
+EXPO_USE_LOCAL_CLI = "1"
+
+[packager]
+language = "nodejs"
+entrypoint = "index.js"
+
+[replit.config]
+name = "SPC Fitness Coach"
+run = "npm start"
