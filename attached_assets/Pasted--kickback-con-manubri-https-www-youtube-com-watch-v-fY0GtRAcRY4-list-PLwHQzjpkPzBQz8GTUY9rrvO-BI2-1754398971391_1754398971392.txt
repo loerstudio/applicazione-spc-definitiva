@@ -1,0 +1,53 @@
+-kickback con manubri 'https://www.youtube.com/watch?v=fY0GtRAcRY4&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=33&pp=iAQB'
+
+  -hip thrust gamba singola 'https://www.youtube.com/watch?v=4c2K9nefRBY&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=32&pp=iAQB'
+
+  -back extensions 'https://www.youtube.com/watch?v=Sxihv3Boq-w&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=31&pp=iAQB'
+
+  -spider curl con manubri 'https://www.youtube.com/watch?v=Up20V_lWZ_k&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=30&pp=iAQB'
+
+  -side plank hand to toe 'https://www.youtube.com/watch?v=uSu1j4tbqDI&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=29&pp=iAQB'
+
+  -leg extension 'https://www.youtube.com/watch?v=0XkWLaudDJc&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=28&pp=iAQB'
+
+  -rematore con manubrio singolo 'https://www.youtube.com/watch?v=hA5cIMNxdEU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=27&pp=iAQB'
+
+  -chest press 'https://www.youtube.com/watch?v=Mqt7UKD5cwM&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=26&pp=iAQB'
+
+  -LLPPT (long lever posteriorpelvic tilt) plank 'https://www.youtube.com/watch?v=LioOOJVIbMw&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=25&pp=iAQB0gcJCccJAYcqIYzv'
+
+  -curl manubri supinazione 'https://www.youtube.com/watch?v=lFAPH2liNUo&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=24&pp=iAQB'
+
+  -side extension in isometria (panca HPX) 'https://www.youtube.com/watch?v=HH47Dp7HFZo&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=23&pp=iAQB0gcJCccJAYcqIYzv'
+
+  -overhead tricep extension (estensione gomiti sopra la testa) 'https://www.youtube.com/watch?v=UTsgkUsHTuU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=22&pp=iAQB'
+
+  -hip thrust a corpo libero 'https://www.youtube.com/watch?v=JjfXjz4UO54&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=21&pp=iAQB'
+
+  -push down sbarra dritta 'https://www.youtube.com/watch?v=lp_FylxEoxM&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=20&pp=iAQB'
+
+  -nordic hamstring curl 'https://www.youtube.com/watch?v=EeQEw5BvWHA&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=19&pp=iAQB'
+
+  -bridge monopodalico (piede rialzato) 'https://www.youtube.com/watch?v=F6pIzMLcEjQ&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=18&pp=iAQB'
+
+  -face pull con corda 'https://www.youtube.com/watch?v=-H3AEd2S2RQ&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=17&pp=iAQB'
+
+  -side bench plank (con flex laterale) 'https://www.youtube.com/watch?v=zbbvAzZiABU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=11&pp=iAQB'
+
+  -shrugs ai cavi 'https://www.youtube.com/watch?v=QmN2f-fBNP8&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=10&pp=iAQB'
+
+  -side bench plank con abduzione 'https://www.youtube.com/watch?v=uHuYXGmQ4dU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=9&pp=iAQB0gcJCccJAYcqIYzv'
+
+  -dragon flag 'https://www.youtube.com/watch?v=bUyQ0Zo9nKU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=8&pp=iAQB'
+
+-bench plank 'https://www.youtube.com/watch?v=WptQqvHrWlU&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=7&pp=iAQB'
+
+  -croci basse ai cavi 'https://www.youtube.com/watch?v=d0uCiSxLGUg&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=6&pp=iAQB'
+
+  -fitball plank 'https://www.youtube.com/watch?v=enBl_sM8j4Q&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=4&pp=iAQB'
+
+  -alzate laterali al cavo singolo 'https://www.youtube.com/watch?v=aQQ8xDaP_XA&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=3&pp=iAQB'
+
+  -hammer curl 'https://www.youtube.com/watch?v=zPwmOTNvE9E&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=2&pp=iAQB'
+
+  -pushdown corda con pronazione 'https://www.youtube.com/watch?v=K85CUZdoEsA&list=PLwHQzjpkPzBQz8GTUY9rrvO_BI2BNYlHY&index=1&pp=iAQB''

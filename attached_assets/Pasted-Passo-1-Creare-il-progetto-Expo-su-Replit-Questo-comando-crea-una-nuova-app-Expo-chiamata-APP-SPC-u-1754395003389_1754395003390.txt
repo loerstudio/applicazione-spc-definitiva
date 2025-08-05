@@ -1,0 +1,57 @@
+Passo 1: Creare il progetto Expo su Replit
+Questo comando crea una nuova app Expo chiamata APP-SPC usando un modello base e poi ti fa entrare nella cartella del progetto.
+
+Bash
+
+npx create-expo-app APP-SPC --template blank && cd APP-SPC
+Cosa fare:
+
+Apri il tuo progetto vuoto su Replit.
+
+A sinistra, vai sulla scheda "Shell".
+
+Copia e incolla il comando qui sopra e premi Invio.
+
+Attendi che finisca l'installazione. Ci vorrà qualche minuto. Alla fine, dovresti vedere che la linea di comando inizia con ~/APP-SPC$.
+
+Passo 2: Installare le dipendenze necessarie
+Questo comando installa tutte le librerie che servono per far funzionare Supabase e la navigazione tra le schermate della tua app.
+
+Bash
+
+npm install @supabase/supabase-js @react-native-async-storage/async-storage react-native-url-polyfill @react-navigation/native @react-navigation/stack
+Cosa fare:
+
+Assicurati di essere ancora nella cartella APP-SPC (dovresti vederlo scritto nella Shell).
+
+Copia e incolla il comando qui sopra e premi Invio.
+
+Attendi che l'installazione sia completata.
+
+Passo 3: Creare la struttura delle cartelle
+Questo comando crea in un colpo solo tutte le cartelle che ti servono per organizzare il codice.
+
+Bash
+
+mkdir -p src/config src/screens src/components src/utils
+Cosa fare:
+
+Sempre dalla stessa Shell, copia e incolla il comando qui sopra e premi Invio.
+
+Vedrai apparire la nuova cartella src nel pannello dei file a sinistra, con dentro le altre cartelle.
+
+Passo 4: Creare i file di base
+Questi comandi creano i file vuoti che poi andremo a riempire con il codice.
+
+Bash
+
+touch src/config/supabase.js src/screens/LoginScreen.js
+Cosa fare:
+
+Copia e incolla il comando qui sopra nella Shell e premi Invio.
+
+Vedrai i nuovi file apparire all'interno delle rispettive cartelle nel pannello dei file.
+
+A questo punto, la configurazione iniziale del tuo progetto Replit è completata e identica a quella che stavi facendo con Claude.
+
+Sei pronto per il prossimo passo: configurare il file supabase.js e iniziare a scrivere il codice per il login. Chiedi pure e andiamo avanti!

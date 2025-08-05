@@ -1,0 +1,69 @@
+Starting project at /home/runner/workspace
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  @react-native-community/datetimepicker@8.4.3 - expected version: 8.4.1
+Your project may not work correctly until you install the expected versions of the packages.
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀██ ▀    ▀█▄ ██ ▄█ ▄▄▄▄▄ █
+█ █   █ █▄▀▄ ██▀ █▄▄█▄██ ▀█ █   █ █
+█ █▄▄▄█ █ ▄▀▄█▄▀  ██▀▄ ▄▄▄█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ █ ▀ █▄▀ ▀▄▀ ▀▄█▄█▄▄▄▄▄▄▄█
+█  ▀ ██▄▄█▀█▄ ▄▄█ █▄█▄▄▄▄ █  ▄█  ▀█
+█▀█▀▄▀▀▄ █▀▀▀  ▄▀▄█▀▄█▀ █▀ ▀▄▀▄█ ▄█
+██  █▀█▄▀█▀▄▄▄ ██▄  ▀█ ▀▄▄▀ ▀▀█▀▀▀█
+█▀▄▀▄ ▄▄█ ▀▀   ▀█▄▀▄█▄ ▄ █▄▀██▀█▀██
+██▄█▀▄▀▄▀ ▀█▀▀▀▀▄▀▄█▄▄ ▀▀█▄▄█▄▄█▄▄█
+█ ▄▀█ ▄▄█▀▀▄▀██▀██  ▀█▀▄█ █ ▄▀▄█▄▄█
+██ █▄▄█▄▄▄  █   █▀▀▀█▄  ▄ █▀ █▄██ █
+█▄ █▄▀▄▄▄█ ██ ▀ ▀ █ ▄▀ █▀██ ▀▀█▄█ █
+█▄███▄█▄█ ▀▀▄  ▄█▄ █▀█ ▀▀ ▄▄▄  ▀▄ █
+█ ▄▄▄▄▄ █▄█▀ ▄ ▄▀▀▀▄█▄▀██ █▄█  ▄ ██
+█ █   █ █▀█▀▀▀▀██ ▄▀▄▀▄▀█▄  ▄  █▀▀█
+█ █▄▄▄█ █▀█▀▀▀▄▄▀   █▀▀▄▄ ▀▀▀ ▀▄▄▄█
+█▄▄▄▄▄▄▄█▄██▄▄▄▄▄▄███▄▄▄▄▄▄██▄██▄██
+
+› Metro waiting on
+exp://3d84087f-8725-4cf1-b479-b12d95333c77-00-2cqbshuewjaaf.riker.replit.dev
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Web is waiting on http://localhost:8081
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› Press w │ open web
+
+› Press j │ open debugger
+› Press r │ reload app
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+
+› Press ? │ show all commands
+
+Logs for your project will appear below. Press Ctrl+C to exit.
+λ Bundled 2938ms node_modules/expo-router/node/render.js (1041 modules)
+Web Bundled 3633ms node_modules/expo-router/entry.js (1066 modules)
+λ  WARN  "shadow*" style props are deprecated. Use "boxShadow". 
+λ  WARN  props.pointerEvents is deprecated. Use style.pointerEvents 
+λ  WARN  [Layout children]: No route named "workouts" exists in nested children: [ 'explore', 'goals', 'index' ] 
+λ  WARN  [Layout children]: No route named "progress" exists in nested children: [ 'explore', 'goals', 'index' ] 
+λ  WARN  [Layout children]: No route named "profile" exists in nested children: [ 'explore', 'goals', 'index' ] 
+/home/runner/workspace/node_modules/@expo/cli/build/src/utils/errors.js:130
+    throw error;
+    ^
+
+ReferenceError: window is not defined
+    at getValue (/home/runner/workspace/node_modules/@react-native-async-storage/async-storage/lib/commonjs/AsyncStorage.js:63:52)
+    at /home/runner/workspace/node_modules/@react-native-async-storage/async-storage/lib/commonjs/AsyncStorage.js:39:21
+    at new Promise (<anonymous>)
+    at createPromise (/home/runner/workspace/node_modules/@react-native-async-storage/async-storage/lib/commonjs/AsyncStorage.js:37:10)
+    at Object.getItem (/home/runner/workspace/node_modules/@react-native-async-storage/async-storage/lib/commonjs/AsyncStorage.js:63:12)
+    at getItemAsync (/home/runner/workspace/node_modules/@supabase/auth-js/dist/main/lib/helpers.js:136:33)
+    at SupabaseAuthClient.__loadSession (/home/runner/workspace/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1000:66)
+    at SupabaseAuthClient._useSession (/home/runner/workspace/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:981:39)
+    at SupabaseAuthClient._emitInitialSession (/home/runner/workspace/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1435:27)
+    at /home/runner/workspace/node_modules/@supabase/auth-js/dist/main/GoTrueClient.js:1429:22
+
+Node.js v20.19.3
