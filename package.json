@@ -3,15 +3,20 @@
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
-    "start": "expo start --tunnel",
-    "start:local": "expo start",
-    "start:web": "expo start --web",
+    "start": "npx expo start --clear --lan",
+    "start:tunnel": "npx expo start --tunnel --clear",
+    "start:localhost": "npx expo start --localhost --clear", 
+    "start:lan": "npx expo start --lan --clear",
+    "start:web": "npx expo start --web --clear",
+    "start:dev": "npx expo start --dev-client --clear",
     "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
+    "android": "npx expo start --android",
+    "ios": "npx expo start --ios",
+    "web": "npx expo start --web",
     "test": "jest --watchAll",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "doctor": "npx expo doctor",
+    "install:clean": "rm -rf node_modules package-lock.json && npm install"
   },
   "jest": {
     "preset": "jest-expo"
@@ -50,6 +55,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
+    "@expo/cli": "latest",
     "@expo/ngrok": "^4.1.0",
     "@types/react": "~19.0.10",
     "eslint": "^9.25.0",

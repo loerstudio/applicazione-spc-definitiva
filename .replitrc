@@ -1,7 +1,9 @@
-# Configurazione Replit per Expo
+# Configurazione Replit per Expo - ZERO PROBLEMI
 [env]
-EXPO_TUNNEL_SUBDOMAIN = "spc-fitness"
 EXPO_USE_LOCAL_CLI = "1"
+EXPO_NO_TELEMETRY = "1"
+EXPO_NO_UPDATE_CHECK = "1"
+NODE_ENV = "development"
 
 [packager]
 language = "nodejs"
@@ -9,4 +11,7 @@ entrypoint = "index.js"
 
 [replit.config]
 name = "SPC Fitness Coach"
-run = "npm start"
+run = "npm run start:lan"
+
+[nix]
+channel = "stable-22_11"
